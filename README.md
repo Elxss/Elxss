@@ -4,13 +4,13 @@
 
 - 🔭 I'm currently working on **Snapchat Memories Downloader**
 
-- 💬 Ask me about **anything !**
+- 💬 Ask me about **E2E Encryption haha**
 
-- 📫 How to reach me **elxssgitcontact@gmail.com** & **[https://elxss.me](https://elxss.me)**
+- 📫 How to reach me **elxssgitcontact@gmail.com**, all my contact informations are available on: **[https://elxss.me](https://elxss.me)**
 
-- 👨‍💻 All of my projects are available at **[https://elxss.me](https://elxss.me)** <= portfolio :)
+- 👨‍💻 All of my projects are available on my portfolio at **[https://elxss.me](https://elxss.me)** as well
 
-- 📄 Know about my experiences **[https://elxss.me](https://elxss.me)**
+- 📄 Know about my experiences **[https://elxss.me](https://elxss.me)** :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
