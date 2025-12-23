@@ -37,9 +37,6 @@
   </a>
 
   <!-- Frameworks / Backend / Desktop -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
   </a>
@@ -48,9 +45,6 @@
   </a>
 
   <!-- DevOps / System -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
   </a>
