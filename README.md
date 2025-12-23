@@ -4,7 +4,7 @@
 
 
 <div align="center">
-        <img alt="Visitor Stats" src="https://widgetbite.com/stats/<github-username>"/>  
+        <img alt="Visitor Stats" src="https://widgetbite.com/stats/elxss"/>  
 </div>
 
 
