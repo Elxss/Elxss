@@ -3,10 +3,10 @@
 **Student in Computer Science**
 
 
-    <div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<github-username>"/>  
-    </div>
+<div align="center">
+        <img alt="Visitor Stats" src="https://widgetbite.com/stats/<github-username>"/>  
+</div>
+
 
 - 🔭 I'm currently working on **Snapchat Memories Downloader**
 
