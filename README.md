@@ -2,7 +2,11 @@
 
 **Student in Computer Science**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Elxss&label=Profile views&color=0e75b6&style=flat" alt="Elxss" /> </p>
+
+    <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<github-username>"/>  
+    </div>
 
 - 🔭 I'm currently working on **Snapchat Memories Downloader**
 
