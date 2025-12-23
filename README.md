@@ -40,9 +40,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/>
-  </a>
 
   <!-- DevOps / System -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer">
