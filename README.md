@@ -2,12 +2,6 @@
 
 **Student in Computer Science**
 
-
-<div align="center">
-        <img alt="Visitor Stats" src="https://widgetbite.com/stats/elxss"/>  
-</div>
-
-
 - 🔭 I'm currently working on **Snapchat Memories Downloader**
 
 - 💬 Ask me about **anything !**
