@@ -16,6 +16,7 @@
 <p align="left">
 <a href="https://github.com/Elxss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Elxss" height="30" width="40" /></a>
 <a href="https://youtube.com/@elxss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@elxss" height="30" width="40" /></a>
+<a href="https://smp14.simplex.im/a#ffyVWBsCPPJP_TTJnzf9qpqBCKqmasjHCMlByigcSwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/Elxss/Elxss/6a7fd2bcaf8168732e5d6650529fe550c7c272c3/simplex-alt.svg" alt="Elxss" height="30" width="40" /></a>
 
 </p>
 
