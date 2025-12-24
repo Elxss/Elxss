@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **E2E Encryption haha**
 
-- 📫 How to reach me **elxssgitcontact@gmail.com**, all my contact informations are available on: **[https://elxss.me](https://elxss.me)**
+- 📫 How to reach me **elxssgitcontact@gmail.com**, all my contact informations are available on: **[https://elxss.me](https://elxss.me)**, PGP as well
 
 - 👨‍💻 All of my projects are available on my portfolio at **[https://elxss.me](https://elxss.me)** as well
 
