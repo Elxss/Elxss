@@ -20,7 +20,7 @@
 
 </p>
 
-<h3 align="left">My favorite tool ❤️ :</h3>
+<h3 align="left">i hope to be in my grave with :</h3>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/Elxss/Elxss/refs/heads/main/winrar.ico" alt="Winrar" height="64" width="64" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/Elxss/Elxss/refs/heads/main/ffmpeg.svg" alt="Winrar" width="128" /></a>
 
