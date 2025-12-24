@@ -1,6 +1,6 @@
 # Hey, I'm Elias
 
-**Student in Computer Science**
+    **Student in Computer Science**
 
 - 🔭 I'm currently working on **Snapchat Memories Downloader**
 
