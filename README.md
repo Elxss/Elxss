@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">My favorite tool ❤️ :</h3>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/Elxss/Elxss/refs/heads/main/winrar.ico" alt="Winrar" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/Elxss/Elxss/refs/heads/main/winrar.ico" alt="Winrar" height="40" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
