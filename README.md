@@ -56,9 +56,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/puppeteer" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" alt="puppeteer" width="40" height="40"/>
-  </a>
+
 
   <!-- DevOps / System -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer">
